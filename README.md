@@ -16,7 +16,10 @@ Think of it as a modern, graphical alternative to tools like `neofetch` or `pfet
 - 🎨 Beautiful, clean Flutter UI  
 - 🧠 Shows system info like OS, kernel, uptime, CPU, memory, and more  
 - 🐧 Designed for Linux desktops (especially for window managers like Hyprland (specifically end-4's dotfiles, also known as illogical-impulse))  
--cd 🖼️ Comes with a `.desktop` file and icon support for app menus
+- 🖼️ Comes with a `.desktop` file and icon support for app menus, but the logo looks ugly not gonna lie
+
+## Development
+Works, but you'll probably want to edit the `lib/info.dart` file for information to be correct like `neofetch`. (If you do so, please PR)
 
 ---
 
@@ -24,7 +27,7 @@ Think of it as a modern, graphical alternative to tools like `neofetch` or `pfet
 
 Grab the latest AppImage here:
 
-👉 **[guifetch-v1.0-x86_64.AppImage](./guifetch-v1.0-x86_64.AppImage)**
+👉 **[guifetch-v1.0-x86_64.AppImage](https://github.com/theawesomeyopro1/guifetch/releases/tag/guifetch#:~:text=Skip%20to%20content,guifetch%20%C2%B7%20theawesomeyopro1/guifetch)**
 
 Make it executable:
 
