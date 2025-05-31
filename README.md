@@ -1,6 +1,7 @@
 ## 🚀 guifetch v1.0 – A Beautiful System Info GUI
 A GUI fetch tool written in Flutter.
 
+![guifetch screenshot](guifetch.png)
 
 **guifetch** is a minimalist, GUI-based system info tool built with Flutter.  
 Think of it as a modern, graphical alternative to tools like `neofetch` or `pfetch`.
