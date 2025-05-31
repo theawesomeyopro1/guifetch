@@ -61,7 +61,7 @@ bind = SUPER, G, exec, ~/.local/bin/guifetch
 
 ### ❤️ Credits
 
-- Built by [FlafyDev](https://github.com/FlafyDev/guifetch/) (I just forked it and actually compiled it so it works on any linux or unix based distro)
+- Built by [FlafyDev](https://github.com/FlafyDev/guifetch/) but i made it better :)
 - Inspired by the simplicity of `neofetch` and the power of Flutter
 
 ## Config
