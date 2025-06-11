@@ -53,7 +53,7 @@ bind = SUPER, G, exec, ~/.local/bin/guifetch
 
 ### 🐛 Known Issues
 
-- Flutter-based apps may take a moment to launch the first time. (Also its based on a flutter verion (3.0.0) might update it to the latest version)
+- Flutter-based apps may take a moment to launch the first time. (Also its based on a flutter verion (3.10.3) might update it to the latest version)
 
 ---
 
@@ -67,7 +67,7 @@ Located at `~/.config/guifetch/guifetch.toml`.
 - `os_image` = Override the image with an absolute path to an image file : `string`
 
 ## Building
-1. Install Flutter (3.0.0)
+1. Install Flutter (3.10.3)
 2. Clone this repository and cd into it
 3. Run `flutter build linux --release`
 4. Launch the executable generated in `./build/linux/x64/release/bundle/guifetch`
